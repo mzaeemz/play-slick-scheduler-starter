@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/zaeem/Datumbrain/play-slick-scheduler-starter/app/v1/webfetcher/WebFetcherResourceHandler.scala:64:53: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : v1.webfetcher.WebFetcherPostResource[0m
+[0m[[0m[31merror[0m] [0m[0m required: v1.webfetcher.WebFetcherResource[0m
+[0m[[0m[31merror[0m] [0m[0m      dataPostList.map(data => createWebPostResource(data))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

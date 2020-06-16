@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/zaeem/Datumbrain/play-slick-scheduler-starter/conf/application.conf,/zaeem/Datumbrain/play-slick-scheduler-starter/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/zaeem/Datumbrain/play-slick-scheduler-starter/conf/routes,/zaeem/Datumbrain/play-slick-scheduler-starter/target/scala-2.13/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/zaeem/Datumbrain/play-slick-scheduler-starter/conf/logback.xml,/zaeem/Datumbrain/play-slick-scheduler-starter/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/zaeem/Datumbrain/play-slick-scheduler-starter/conf/generated.keystore,/zaeem/Datumbrain/play-slick-scheduler-starter/target/scala-2.13/classes/generated.keystore)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/zaeem/Datumbrain/play-slick-scheduler-starter/conf/secure.conf,/zaeem/Datumbrain/play-slick-scheduler-starter/target/scala-2.13/classes/secure.conf)[0m
